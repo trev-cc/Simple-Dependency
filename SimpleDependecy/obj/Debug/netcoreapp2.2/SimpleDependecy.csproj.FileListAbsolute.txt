@@ -1,0 +1,14 @@
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/bin/Debug/netcoreapp2.2/SimpleDependecy.deps.json
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/bin/Debug/netcoreapp2.2/SimpleDependecy.runtimeconfig.json
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/bin/Debug/netcoreapp2.2/SimpleDependecy.runtimeconfig.dev.json
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/bin/Debug/netcoreapp2.2/SimpleDependecy.dll
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/bin/Debug/netcoreapp2.2/SimpleDependecy.pdb
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/bin/Debug/netcoreapp2.2/MessagePrinter.dll
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/bin/Debug/netcoreapp2.2/MessagePrinter.pdb
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/obj/Debug/netcoreapp2.2/SimpleDependecy.csprojAssemblyReference.cache
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/obj/Debug/netcoreapp2.2/SimpleDependecy.csproj.CoreCompileInputs.cache
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/obj/Debug/netcoreapp2.2/SimpleDependecy.AssemblyInfoInputs.cache
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/obj/Debug/netcoreapp2.2/SimpleDependecy.AssemblyInfo.cs
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/obj/Debug/netcoreapp2.2/SimpleDependecy.csproj.CopyComplete
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/obj/Debug/netcoreapp2.2/SimpleDependecy.dll
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/SimpleDependecy/obj/Debug/netcoreapp2.2/SimpleDependecy.pdb

@@ -1,0 +1,9 @@
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/MessagePrinter/bin/Debug/netstandard2.0/MessagePrinter.deps.json
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/MessagePrinter/bin/Debug/netstandard2.0/MessagePrinter.dll
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/MessagePrinter/bin/Debug/netstandard2.0/MessagePrinter.pdb
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/MessagePrinter/obj/Debug/netstandard2.0/MessagePrinter.csprojAssemblyReference.cache
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/MessagePrinter/obj/Debug/netstandard2.0/MessagePrinter.csproj.CoreCompileInputs.cache
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/MessagePrinter/obj/Debug/netstandard2.0/MessagePrinter.AssemblyInfoInputs.cache
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/MessagePrinter/obj/Debug/netstandard2.0/MessagePrinter.AssemblyInfo.cs
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/MessagePrinter/obj/Debug/netstandard2.0/MessagePrinter.dll
+/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/MessagePrinter/obj/Debug/netstandard2.0/MessagePrinter.pdb

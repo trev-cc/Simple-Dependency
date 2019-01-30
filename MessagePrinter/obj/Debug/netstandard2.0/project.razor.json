@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/trevorfleeman/Desktop/Class Spring 2019/CIDM4390/Chapter03/SimpleDependecy/MessagePrinter/MessagePrinter.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
